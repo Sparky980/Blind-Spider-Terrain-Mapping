@@ -54,7 +54,7 @@ The program generates three plots:
 - Reconstructed Terrain
 ## Output
 
-![Output](images/Figure_3png.png)
+![Output](Images/Figure_3png.png)
 ---
 
 ## Technologies Used
