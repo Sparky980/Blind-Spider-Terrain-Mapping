@@ -5,6 +5,7 @@
 A blind hexapod robot reconstructs the terrain using only its leg joint angles and Forward Kinematics.
 Most hexapod navigation systems rely on external sensors like LiDAR.
 This project explores whether terrain can be reconstructed using only proprioceptive data from leg joint angles
+
 ---
 
 ## Features
